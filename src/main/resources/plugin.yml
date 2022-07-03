@@ -1,0 +1,4 @@
+name: TechnoPigs
+version: '${project.version}'
+main: me.takkapi.technopigs.TechnoPigs
+api-version: 1.19
